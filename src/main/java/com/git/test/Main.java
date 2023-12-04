@@ -3,9 +3,14 @@ import java.io.IOException;
 
 public class Main {
 
+    public static void main(String[] args){
+        
+        System.out.println("Hello world!");
+    
+    }
     public String test(String fileName, String message)
     {
-        System.out.println("Hello world!");
+        
 
         // File write program
         String filePath = fileName;
